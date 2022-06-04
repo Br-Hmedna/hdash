@@ -603,7 +603,9 @@ div[data-testid="metric-container"] > label[data-testid="stMetricLabel"] > div {
     padding-top: 50PX;
 }
 
-
+.css-1gx893w{
+    top:-45px;
+}
 
 .css-6awftf ~ .css-1kyxreq {  position: absolute;
     top: 35px;
