@@ -580,7 +580,11 @@ div[data-testid="metric-container"] > label[data-testid="stMetricLabel"] > div {
     background-color: #fff;
     border-radius: 0.5rem;
 }
-
+.css-1siy2j7{
+    width: 17rem;
+    background-color: #fff;
+    border-radius: 0.5rem;
+}
 .css-18e3th9 {
     background-color: #f5f5f9;
     padding-left: 1rem;
