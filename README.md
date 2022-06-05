@@ -5,3 +5,7 @@ Sales Dashboard built in Python and the Streamlit library to visualize Excel dat
 https://hmkapi.herokuapp.com/
 
 ![Screenshot](Dashboard.png)
+
+# Author
+  Brahim hmedna
+  hmedna@gmail.com
