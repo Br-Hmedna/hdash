@@ -4,4 +4,4 @@ Sales Dashboard built in Python and the Streamlit library to visualize Excel dat
 # Demo
 https://share.streamlit.io/hclon/hdash/main/app.py
 
-![Screenshot](screenshot.png)
+![Screenshot](FireShot Capture 002 - Dashboard - localhost.png)
